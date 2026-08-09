@@ -1,11 +1,9 @@
-# hafsaPortfolio
+# hafsa Frontend Portfolio
+Here you will find a list of frontend small projects
 =>https://hafsa-techno.github.io/hafsaPortfolio/
 <h1 align="center">Hi 👋, I'm Hafsa Idsaid</h1>
 <h3 align="center">Computer Science Student - 1337 UM6P RABAT</h3>
 
-- 🔭 I worked on **Minishell**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
